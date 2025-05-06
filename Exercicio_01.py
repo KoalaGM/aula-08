@@ -1,3 +1,5 @@
-estados = ("São Paulo", "Rio de Janeiro", "Minas Gerais", "Bahia", "Rio Grande do Sul")
+estados = ("São Paulo", "Rio de Janeiro", "Minas Gerais",
+           "Bahia", "Rio Grande do Sul")
+
 
 print(", ".join(estados))
